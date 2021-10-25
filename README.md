@@ -1,2 +1,2 @@
-ODIN Foudantions
+Foudantions
 Project Eat-A-Sketch
